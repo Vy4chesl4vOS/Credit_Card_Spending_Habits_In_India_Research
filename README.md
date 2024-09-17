@@ -24,3 +24,6 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-hab
 Statistical methods were used to determine the difference between the groups 
 
 <a href="https://ibb.co/jG5g40v"><img src="https://i.ibb.co/GkJcPYv/output.png" alt="output" border="0"></a>
+
+## Dashboard
+https://public.tableau.com/app/profile/vyacheslav.uteshev/viz/CreditCardSpendingHabitsinIndia_17265012471990/Dashboard
