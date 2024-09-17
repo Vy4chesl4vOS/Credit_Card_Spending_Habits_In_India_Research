@@ -18,3 +18,9 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-hab
 
 ## Visualization
 <a href="https://ibb.co/42sRCrK"><img src="https://i.ibb.co/2S83R4W/output2.png" alt="output2" border="0" /></a>
+<a href="https://ibb.co/Xb0x9sP"><img src="https://i.ibb.co/376mwNb/output.png" alt="output" border="0"></a>
+
+## Statistical analysis
+Statistical methods were used to determine the difference between the groups 
+
+<a href="https://ibb.co/jG5g40v"><img src="https://i.ibb.co/GkJcPYv/output.png" alt="output" border="0"></a>
