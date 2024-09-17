@@ -17,4 +17,4 @@ The project aims to analyse data on spending in India to identify trends, key fa
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
 ## Visualization
-![Image alt](https://i.ibb.co/xYmqwTX/output2.png)
+<a href="https://ibb.co/42sRCrK"><img src="https://i.ibb.co/2S83R4W/output2.png" alt="output2" border="0" /></a>
