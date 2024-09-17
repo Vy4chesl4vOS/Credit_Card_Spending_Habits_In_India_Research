@@ -1,1 +1,14 @@
-Tableau link: https://public.tableau.com/views/CreditCardSpendingHabitsinIndia_17265012471990/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Name: Credit Card Spending Habits In India Analysis
+
+## Description
+The project aims to analyse data on spending in India to identify trends, key factors.
+
+## Технологии
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Scipy.Stats
+- Tableau
